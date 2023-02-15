@@ -254,15 +254,28 @@
                 <!-- form fields -->
                 <!-- integrate with netlify for backend -->
                 <form name="contact" method="post" data-netlify-recaptcha="true" netlify>
-                    <input type="text" name="name" class="form-control form-control-lg" placeholder="Name">
-                    <input type="email" name="email" class="form-control mt-3" placeholder="Email">
-                    <input type="text" name="subject" class="form-control mt-3" placeholder="Subject">
-                    <div class="mb-3 mt-3"> 
-                        <textarea class="form-control" name="message" rows="5" id="comment" placeholder="Project Details"></textarea>
-                    </div>
-                    <div data-netlify-recaptcha="true">
-                        <button type="submit" class="btn btn-success mt-3"> Send </button>
-                    </div>
+                    <p> 
+                        <label> Name 
+                            <input type="text" name="name" class="form-control form-control-lg" />
+                        </label>
+                    </p>
+                    <p> 
+                        <label> Email 
+                            <input type="email" name="email" class="form-control form-control-lg" />
+                        </label>
+                    </p>
+                    <p> 
+                        <label> Subject 
+                            <input type="text" name="subject" class="form-control form-control-lg" />
+                        </label>
+                    </p>
+
+                        <div class="mb-3 mt-3"> 
+                            <textarea class="form-control" name="message" rows="5" id="comment" placeholder="Project Details"></textarea>
+                        </div>
+                        <div data-netlify-recaptcha="true">
+                            <button type="submit" class="btn btn-success mt-3"> Send </button>
+                        </div>
                 </form>            
 
             </div>
