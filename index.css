@@ -33,7 +33,7 @@
     width: 100%;
 }
 
-/* services section css*/
+/* skills section css*/
 .servicesText.card{
     height: 280px;
     cursor: pointer;
@@ -49,15 +49,16 @@
 .card-tile{
     text-align: center;
 }
-
+/*
 .card:hover .servicesIcon{
     color: #008000;
 }
 
-.servicesText:hover{
+.servicesText:hover {
+    display: block; 
     border: 1px solid #008000;    
 }
-
+*/
 
 /*  display background color black on navbar scroll*/
 .navbarScroll.navbarDark{
