@@ -2,7 +2,9 @@
 
 **Goal**: Create a profile site that is all about you
 
-[Personal Site](https://adriangonz-portfolio.netlify.app/)
+Site: [Personal Portfolio Site](https://adriangonz-portfolio.netlify.app/)
+
+Guide: [How to create a personal site with HTML, CSS, JavaScript and Bootstrap 5](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)
 
 **Criteria**: The site will focus on 4 main areas:
 1. Home Page 
