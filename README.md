@@ -2,6 +2,8 @@
 
 **Goal**: Create a profile site that is all about you
 
+[Personal Site](https://adriangonz-portfolio.netlify.app/)
+
 **Criteria**: The site will focus on 4 main areas:
 1. Home Page 
 * This landing page is your first impression. You can include a photo, a mission statement, and something which defines you. Using a quote is a great idea, as well.
@@ -20,3 +22,4 @@
 * Bootstraps 5
 * Font awesome 
 * google maps 
+* Netlify 
